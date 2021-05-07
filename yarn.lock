@@ -4642,10 +4642,6 @@ react-native-maps@0.27.0:
   version "0.27.0"
   resolved "https://registry.yarnpkg.com/react-native-maps/-/react-native-maps-0.27.0.tgz#3b62e8dbe03f4a7f855dbff429db3eab5f76959b"
 
-react-native-md-textinput@^2.0.4:
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/react-native-md-textinput/-/react-native-md-textinput-2.0.4.tgz#9f81cff16ceba0bc595fc58ed1239bd13a4023a8"
-
 react-native-reanimated@^1.7.0:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/react-native-reanimated/-/react-native-reanimated-1.7.0.tgz#896db2576552ac59d288a1f6c7f00afc171f240c"
@@ -5618,8 +5614,8 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
 ua-parser-js@^0.7.18:
-  version "0.7.21"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.21.tgz#853cf9ce93f642f67174273cc34565ae6f308777"
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
 
 uglify-es@^3.1.9:
   version "3.3.9"
